@@ -1,0 +1,12 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\bin\Debug\Working with a Pupil Class.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\bin\Debug\Working with a Pupil Class.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\bin\Debug\Working with a Pupil Class.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.pdb
+D:\SSD\Projects\Console Applications\Working with a Pupil Class\Working with a Pupil Class\bin\Debug\Working with a Pupil Class.exe.config
+D:\SSD\Projects\Console Applications\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.exe
+D:\SSD\Projects\Console Applications\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.pdb
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Helper or Example Programs\Working with a Pupil Class\Working with a Pupil Class\bin\Debug\Working with a Pupil Class.exe.config
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Helper or Example Programs\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.exe
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Helper or Example Programs\Working with a Pupil Class\Working with a Pupil Class\obj\Debug\Working with a Pupil Class.pdb
